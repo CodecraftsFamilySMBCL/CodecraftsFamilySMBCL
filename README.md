@@ -1,5 +1,3 @@
-[README-INSTALL.txt](https://github.com/user-attachments/files/34492369/README-INSTALL.txt)
-[README.md](https://github.com/user-attachments/files/34492371/README.md)
 <div align="center">
 Hi, I'm Constance Xavier S 👋
 Computer Science Engineer | Data Science | Data Analytics | Generative AI
