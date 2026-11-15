@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Constance Xavier S.
+👋 Hi, I'm Constance Xavier S.
 
 ### Data Science | Data Analytics | Business Intelligence | AI & Machine Learning
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 💫 About Me
+💫 About Me
 
 I'm a Computer Science Engineering graduate with **6 months of experience in Data Science and Analytics**, passionate about transforming raw data into meaningful insights and developing intelligent solutions to real-world problems.
 
@@ -25,7 +25,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/constancexaviers" target="_blank">
@@ -41,9 +41,9 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 
 ---
 
-## 🛠️ Technical Skills
+ 🛠️ Technical Skills
 
-### 🐍 Programming & Query Languages
+ 🐍 Programming & Query Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-Primary%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,7 +53,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Machine Learning
+📊 Data Science & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -63,7 +63,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-**Core Skills:**
+Core Skills:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
@@ -72,7 +72,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 - Classification & Regression
 - Model Evaluation
 
-### 📈 Business Intelligence & Visualization
+📈 Business Intelligence & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -80,7 +80,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-**Core Skills:**
+Core Skills:
 - Interactive Dashboard Development
 - DAX & Power Query
 - Data Visualization
@@ -114,7 +114,7 @@ I'm a Computer Science Engineering graduate with **6 months of experience in Dat
 
 ---
 
-## 🎓 Certifications
+🎓 Certifications
 
 <p align="center">
   <img src="assets/certifications/google-ai-professional.png" width="400" alt="Google AI Professional Certificate"/>
@@ -148,26 +148,26 @@ Certificate Images:Add your actual certificate images to the `assets/certificati
 </p>
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 📌 Customer Churn Prediction
+📌 Customer Churn Prediction
 - Built predictive models using Python and Scikit-learn.
 - Worked with Logistic Regression, Decision Tree, and Random Forest.
 - Explored Generative AI integration.
 - Published research at SCITEPRESS 2025.
 
-### 📌 Financial Sales Analytics Dashboard
+📌 Financial Sales Analytics Dashboard
 - Developed an interactive Power BI dashboard.
 - Used DAX, Power Query, and data modeling.
 - Created business-focused sales insights.
 
-### 📌 IoT-Based Travel Recommendation System
+📌 IoT-Based Travel Recommendation System
 - Developed a travel recommendation solution.
 - Used NodeMCU and MySQL.
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodecraftsFamilySMBCL&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true"/>
@@ -180,23 +180,21 @@ Certificate Images:Add your actual certificate images to the `assets/certificati
 
 ---
 
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodecraftsFamilySMBCL&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
-
-## ✍️ Developer Quote
+✍️ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
-
-## 📈 Profile Visitors
+📈 Profile Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodecraftsFamilySMBCL&label=Profile%20Views&color=0e75b6&style=flat"/>
