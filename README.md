@@ -30,8 +30,9 @@
  <img width="3300" height="2550" alt="google-ai-professional png" src="https://github.com/user-attachments/assets/7cdc9b58-0f30-4e28-ae2d-82adeacd8dc8" />
 <img width="1920" height="1080" alt="deloitte-data-analytics png" src="https://github.com/user-attachments/assets/f2305f9b-6e51-47db-b6d6-ac628f2d90fd" />
 <img width="1920" height="1080" alt="british-airways-data-science png" src="https://github.com/user-attachments/assets/da5f77cd-4061-4419-9ba5-7d0c1e113b94" />
+ <img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/87eda65b-f7e8-4284-bf3a-9113ec86dcbf" />
 <img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/f950d042-599f-48ee-8c90-258053d31809" />
-<img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/87eda65b-f7e8-4284-bf3a-9113ec86dcbf" />
+
 
  
 <p align="center">
