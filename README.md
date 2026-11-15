@@ -29,21 +29,6 @@
 <p align="center">
   <img src="certifications/google-ai-professional.png" width="280" alt="Google AI Professional Certificate"/><img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/9b932891-9718-41c8-950a-7b2aa2cdebd6" />
 <img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/a3434bd5-fa5e-45b7-96fc-fdc7fed92a50" />
-<img width="1920" height="1080" alt="british-airways-data-science png" src="https://github.com/user-attachments/assets/90828bf3-e894-4ce8-bd1c-afdbb69abf97" />
-<img width="1920" height="1080" alt="deloitte-data-analytics png" src="https://github.com/user-attachments/assets/b9eb5355-f3cf-4bf3-be0f-3267350ef47d" />
-<img width="3300" height="2550" alt="google-ai-professional png" src="https://github.com/user-attachments/assets/02b2e544-de69-4823-9c56-d6efbf3af8c4" />
 
-  <img src="certifications/deloitte-data-analytics.png" width="280" alt="Deloitte Data Analytics Certificate"/>
-</p>
-
-<p align="center">
-  <img src="certifications/british-airways-data-science.png" width="280" alt="British Airways Data Science Certificate"/>
-  <img src="certifications/python-besant.png" width="280" alt="Python Certificate"/>
-</p>
-
-<p align="center">
-  <img src="certifications/powerbi-besant.png" width="280" alt="Power BI Certificate"/>
-  <img src="certifications/sql-besant.png" width="280" alt="SQL Certificate"/>
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
