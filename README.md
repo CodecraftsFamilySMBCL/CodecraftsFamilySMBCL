@@ -29,6 +29,20 @@
 <p align="center">
   <img src="certifications/google-ai-professional.png" width="280" alt="Google AI Professional Certificate"/><img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/9b932891-9718-41c8-950a-7b2aa2cdebd6" />
 <img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/a3434bd5-fa5e-45b7-96fc-fdc7fed92a50" />
+<p align="center">
+  <img src="certifications/google-ai-professional.png" width="280" alt="Google AI Professional Certificate"/>
+  <img src="certifications/deloitte-data-analytics.png" width="280" alt="Deloitte Data Analytics Certificate"/>
+</p>
+
+<p align="center">
+  <img src="certifications/british-airways-data-science.png" width="280" alt="British Airways Data Science Certificate"/>
+  <img src="certifications/python-besant.png" width="280" alt="Python Certificate"/>
+</p>
+
+<p align="center">
+  <img src="certifications/powerbi-besant.png" width="280" alt="Power BI Certificate"/>
+  <img src="certifications/sql-besant.png" width="280" alt="SQL Certificate"/>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
