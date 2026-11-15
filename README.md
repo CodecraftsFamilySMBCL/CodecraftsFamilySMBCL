@@ -27,21 +27,15 @@
 ## 🎓 Certifications
 
 <p align="center">
-  <img src="certifications/google-ai-professional.png" width="280" alt="Google AI Professional Certificate"/><img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/9b932891-9718-41c8-950a-7b2aa2cdebd6" />
-<img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/a3434bd5-fa5e-45b7-96fc-fdc7fed92a50" />
-<p align="center">
-  <img src="certifications/google-ai-professional.png" width="280" alt="Google AI Professional Certificate"/>
-  <img src="certifications/deloitte-data-analytics.png" width="280" alt="Deloitte Data Analytics Certificate"/>
-</p>
+ <img width="3300" height="2550" alt="google-ai-professional png" src="https://github.com/user-attachments/assets/7cdc9b58-0f30-4e28-ae2d-82adeacd8dc8" />
+<img width="1920" height="1080" alt="deloitte-data-analytics png" src="https://github.com/user-attachments/assets/f2305f9b-6e51-47db-b6d6-ac628f2d90fd" />
+<img width="1920" height="1080" alt="british-airways-data-science png" src="https://github.com/user-attachments/assets/da5f77cd-4061-4419-9ba5-7d0c1e113b94" />
+<img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0002" src="https://github.com/user-attachments/assets/f950d042-599f-48ee-8c90-258053d31809" />
+<img width="3508" height="2481" alt="Constance+Xavier+S_158553298(nascom certificate) pdf_pages-to-jpg-0001" src="https://github.com/user-attachments/assets/87eda65b-f7e8-4284-bf3a-9113ec86dcbf" />
 
+ 
 <p align="center">
-  <img src="certifications/british-airways-data-science.png" width="280" alt="British Airways Data Science Certificate"/>
-  <img src="certifications/python-besant.png" width="280" alt="Python Certificate"/>
-</p>
 
-<p align="center">
-  <img src="certifications/powerbi-besant.png" width="280" alt="Power BI Certificate"/>
-  <img src="certifications/sql-besant.png" width="280" alt="SQL Certificate"/>
 </p>
 
 
