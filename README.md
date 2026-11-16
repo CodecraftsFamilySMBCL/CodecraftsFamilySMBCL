@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+Analytics+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Power+BI+%7C+Tableau+%7C+Advanced+Excel;Exploring+Generative+AI+%26+LLMs" />
+</p>
+
 # 💫 About Me:
 <br><br>I'm a Computer Science Engineering graduate with 6 months of experience in Data Science and Analytics, passionate about transforming data into meaningful insights and building intelligent solutions to real-world problems.<br><br>I have hands-on experience in Python, SQL, Data Analysis, Machine Learning, and Business Intelligence, with a strong foundation in data preprocessing, exploratory data analysis (EDA), predictive modeling, and data visualization.<br><br>I work with Power BI, Tableau, and Advanced Excel to develop interactive dashboards and insightful reports that support data-driven decision-making. I'm also exploring Generative AI, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) to expand my knowledge of modern AI technologies.<br><br>I enjoy learning new technologies, solving analytical challenges, and applying my skills through hands-on projects and practical experiences.<br><br>🎯 Career Interests: Data Analyst | Junior Data Scientist | Business Intelligence Analyst | AI/ML Engineer
 
